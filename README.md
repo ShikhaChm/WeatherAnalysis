@@ -92,3 +92,7 @@
     plt.show()
 
 
+## Observable trends based on the data.
+    - As we know countries/cities close to equator are warmest. We can cearly see from the LatTemp graph that when the latitude is close to zero, temperature rises, at zero temperature is maximum. It is the hottest zone on earth. While on tthe poles lat rannges near -90 and 90 temperature is lowest/coldest.
+    - Other factors like wind, cloudiness, humidity depend on other environmental factors like proximity to oceans/seas & mountains and time of the year(season) as well. As the cities are chosen at random in this experiment, just from the plots between latitude and cloudiness,humidity and windiness, nothing much can be derived from the given plots only based on latitude.
+    
